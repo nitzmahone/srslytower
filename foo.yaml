@@ -1,0 +1,4 @@
+all:
+  vars:
+    untrusted_from_inv: !unsafe '{{ "i am untrusted" }}'
+    
